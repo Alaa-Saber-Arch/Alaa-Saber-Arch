@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C# And Revit API
 - 📫 How to reach me :alaasaber931@gmail.com
-- ⚡ Fun fact:I am 158 cm tall, and I consider myself tall.
+
 
 <!---
 Alaa-Saber-Arch/Alaa-Saber-Arch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
